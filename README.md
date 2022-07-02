@@ -9,13 +9,13 @@ class kstyle2198():
     self.name = name
     self.age = age
    
-  def personalInfo(self):
+  def PersonalInfo(self):
     print(f"My name is {self.name}, {self.age} years old and live in South Korea")
  
-  def hrManager(self):
-    print("As a HR manager at Hyundai, I have worked about 16 years"
+  def HrManager(self):
+    print("As a HR manager at Hyundai, I have worked about 16 years")
    
-  def developer(self):
+  def Developer(self):
     print("I have just learned Python since 2020 and trying to make cool projects like web development, data analysis, etc")
 
 ```
