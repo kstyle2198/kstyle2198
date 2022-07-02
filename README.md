@@ -1,16 +1,21 @@
 ### Hi there 👋
+## Welcome your visit to my Github chennel
 
-<!--
-**kstyle2198/kstyle2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+# create kstyle2198 instance~
 
-Here are some ideas to get you started:
+class kstyle2198():
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+   
+  def personalInfo(self):
+    print(f"My name is {self.name}, {self.age} years old and live in South Korea")
+ 
+  def hrManager(self):
+    print("As a HR manager at Hyundai, I have worked about 16 years"
+   
+  def developer(self):
+    print("I have just learned Python since 2020 and trying to make cool projects like web development, data analysis, etc")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
