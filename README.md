@@ -1,5 +1,5 @@
 # Hi there 👋
-## Welcome your visit to my Github chennel
+## Welcome your visit to my Github channel
 
 
 [![](https://img.shields.io/badge/Python-Django-blue)](https://www.djangoproject.com/)
