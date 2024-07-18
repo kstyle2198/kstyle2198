@@ -5,7 +5,6 @@
 [![](https://img.shields.io/badge/Python-Django-blue)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/Python-FastApi-red)](https://fastapi.tiangolo.com/)
 [![](https://img.shields.io/badge/Python-Scikit--learn-red)](https://scikit-learn.org/stable/)
-[![](https://img.shields.io/badge/Python-PyCaret-yellown)](https://pycaret.org/)
 [![](https://img.shields.io/badge/Python-Pandas-green)](https://pandas.pydata.org/)
 [![](https://img.shields.io/badge/Vue-2.0-orange)](https://vuejs.org/)
 [![](https://img.shields.io/badge/Vuetify-2.6-lightgrey)](https://vuetifyjs.com/en/)
