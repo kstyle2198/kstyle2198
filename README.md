@@ -1,39 +1,17 @@
 # K Style Tech Blog
 
-AI · Cloud Native · Data Engineering · MLOps
+### AI · Data · Cloud Native
 
 ---
 
-## 📚 기술 공부 기록
-
-### AI
-
-* On-Device AI
-* STT / TTS
-* LLM
-* RAG
-
-### Cloud Native
-
-* Docker
-* Kubernetes
-* Helm
-* ArgoCD
-
-### Data Engineering
-
-* Kafka
-* Spark
-* Redis
-
-### MLOps
-
-* Prefect
-* Prometheus
-* Grafana
+- **LLM Agents**
+- **On-Device AI**
+- **LLM Evaluation**
+- **Kafka & Data Engineering**
+- **Kubernetes & MLOps**
 
 ---
 
-> 직접 실습하고, 이해한 내용을 쉽게 정리합니다.
+### Learn → Build → Measure → Share
 
-**Learning → Practice → Record**
+Technical notes, experiments, architectures, and lessons learned.
